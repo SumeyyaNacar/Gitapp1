@@ -6,5 +6,6 @@ public class Runner {
 
         //versiyon 2
         System.out.println("git commit -m");
+        System.out.println("git commit -m\"\" ile versiyon oluşturulur. ");
     }
 }
